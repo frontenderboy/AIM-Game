@@ -1,3 +1,3 @@
 # [AIM-Game](https://frontenderboy.github.io/AIM-Game/)
 
-![Preview](/AIM-Game/aim-game.png "Preview")
+![Preview](/aim-game.png "Preview")
